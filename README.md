@@ -81,7 +81,6 @@ Feel free to fork the repo, open pull requests for improvements, or suggest feat
 
 If you’re interested in custom predictive analytics, data science consulting, or project collaborations:
 - Connect on LinkedIn or Upwork
-- Or open a new issue in this repository
 
 > *Transforming raw gold price data into future opportunities—one forecast at a time.*
 

@@ -86,4 +86,5 @@ If you’re interested in custom predictive analytics, data science consulting, 
 - Connect on LinkedIn or Upwork
 
 > *Transforming raw gold price data into future opportunities—one forecast at a time.*
+<img width="1045" height="265" alt="image" src="https://github.com/user-attachments/assets/155428ad-85d6-46c6-9f68-4eeddb13d3e8" />
 

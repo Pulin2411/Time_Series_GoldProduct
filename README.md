@@ -1,3 +1,6 @@
+<img width="948" height="253" alt="image" src="https://github.com/user-attachments/assets/2224fdb4-40c4-458d-b2fe-54ca9bc6b665" />
+
+
 # Time_Series_GoldProduct
 # Gold Price Prediction Model
 
